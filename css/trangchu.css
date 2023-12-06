@@ -1,0 +1,58 @@
+header a,
+i {
+    text-decoration: none;
+    color: #dbc3b4;
+    font-family: Calibri_Light;
+}
+
+#zone1 .col-md-6 {
+    margin-top: 2.5rem;
+}
+
+#zone1 .col-md-6 .btn:hover {
+    color: #fff;
+}
+
+#zone1 .col-md-6 .input-text:focus {
+    box-shadow: 0px 0px 0px;
+    border-color: #c89979;
+    outline: 0px;
+}
+
+#zone1 .col-md-6 .form-control {
+    border: 1px solid #c89979;
+}
+
+#zone1 .col-md-6 .input-group-append button {
+    border-radius: 1px 5px 5px 1px;
+    border: 1px solid #c89979;
+    background-color: #c89979;
+}
+
+#zone1 .col-md-6 .input-group-append button:hover {
+    border: 1px solid #9b9999;
+}
+
+#zone1 .col-md-6 .input-group-append i {
+    color: #fff;
+}
+
+#zone1 .col-md-6 .btn:hover {
+    background-color: #7a7171;
+}
+
+#zone1 .col-md-6 .btn:hover i {
+    color: #fff;
+}
+
+#zone1 .col-md-4 .content-login a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 1.5rem;
+}
+
+#zone1 .col-md-4 .content-login {
+    font-family: Calibri_Bold;
+    margin-top: 3.25rem;
+}

@@ -1,0 +1,14 @@
+@font-face {
+    font-family: Calibri_Light;
+    src: url(../FileFonts/Calibri\ Light.ttf);
+}
+
+@font-face {
+    font-family: Calibri_Bold;
+    src: url(../FileFonts/Calibri\ Bold.TTF);
+}
+
+@font-face {
+    font-family: Calibri_Regular;
+    src: url(../FileFonts/Calibri\ Regular.ttf);
+}

@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: Calibri_Light;
+}
+
+header,
+#zone1 {
+    background-color: #9b9999;
+}
+
+#zone1 {
+    border-top: 1px solid gray;
+}
