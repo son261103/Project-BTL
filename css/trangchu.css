@@ -56,3 +56,28 @@ i {
     font-family: Calibri_Bold;
     margin-top: 3.25rem;
 }
+
+#zone2{
+    background-color: #030303;
+}
+
+
+#zone1 .row-2-2 div{
+    text-align: center;
+    justify-content: center;
+}
+
+#zone1 .row-2-2 .navbar{
+    background-color: #9b9999;
+    z-index: 2;
+    
+}
+
+#zone1 .row-2-2 .navbar li{
+    padding: 0rem 7rem;
+    
+    
+}
+
+
+
