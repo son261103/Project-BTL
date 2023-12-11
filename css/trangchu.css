@@ -73,11 +73,24 @@ i {
     
 }
 
-#zone1 .row-2-2 .navbar li{
+#zone1 #navbarNavDropdown li a {
     padding: 0rem 7rem;
-    
-    
+    color: #fff ;
+    font-family: Calibri_Light;
+    font-weight: bold;
+   
 }
 
 
+#zone1 #navbarNavDropdown li a span:hover{
+    border-bottom: 4px solid #c89979;
 
+}
+
+#zone1 #navbarNavDropdown .dropdown-menu a{
+    /* z-index: 2; */
+    color: #030303;
+}
+
+
+/* ************************************* */
